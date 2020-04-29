@@ -94,6 +94,10 @@ background-attachment: fixed;">
 						</center>
 						<br />
 						<center>
+							<font size="5"><a href="【黑乐谱】千本樱/index.html" tppabs="./【黑乐谱】千本樱/index.html" target="_blank">【黑乐谱】千本樱</a></font>
+						</center>
+						
+						<center>
 							<font size="5"><a href="【白上吹雪】千本狐/index.html" tppabs="./【白上吹雪】千本狐/index.html" target="_blank">【白上吹雪】千本狐</a></font>
 						</center>
 						
