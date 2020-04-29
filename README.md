@@ -93,9 +93,12 @@ background-attachment: fixed;">
 							<font size="3">温馨提示：镇站之宝是B站被删除视频，观看可能会引起不适！</font>
 						</center>
 						<br />
+						<center>
+							<font size="5"><a href="影流之主全皮肤/index.html" tppabs="./影流之主全皮肤/index.html" target="_blank">影流之主全皮肤</a></font>
+						</center>
 
 						<center>
-							<font size="5"><a href="线路切换/index.html" tppabs="./线路切换/index.html" target="_blank">线路切换</a></font>
+							<font size="5"><a href="特朗普演示喝消毒液后被抬走/index.html" tppabs="./特朗普演示喝消毒液后被抬走/index.html" target="_blank">特朗普演示喝消毒液后被抬走</a></font>
 						</center>
 
 						<center>
